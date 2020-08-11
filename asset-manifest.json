@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyFavDrama/static/css/main.82a8d1c7.chunk.css",
+    "main.js": "/MyFavDrama/static/js/main.e515d00a.chunk.js",
+    "main.js.map": "/MyFavDrama/static/js/main.e515d00a.chunk.js.map",
+    "runtime-main.js": "/MyFavDrama/static/js/runtime-main.50ff4633.js",
+    "runtime-main.js.map": "/MyFavDrama/static/js/runtime-main.50ff4633.js.map",
+    "static/js/2.d6388d0f.chunk.js": "/MyFavDrama/static/js/2.d6388d0f.chunk.js",
+    "static/js/2.d6388d0f.chunk.js.map": "/MyFavDrama/static/js/2.d6388d0f.chunk.js.map",
+    "index.html": "/MyFavDrama/index.html",
+    "precache-manifest.0d36216ebbe16b5164a4002884812bfb.js": "/MyFavDrama/precache-manifest.0d36216ebbe16b5164a4002884812bfb.js",
+    "service-worker.js": "/MyFavDrama/service-worker.js",
+    "static/css/main.82a8d1c7.chunk.css.map": "/MyFavDrama/static/css/main.82a8d1c7.chunk.css.map",
+    "static/js/2.d6388d0f.chunk.js.LICENSE.txt": "/MyFavDrama/static/js/2.d6388d0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50ff4633.js",
+    "static/js/2.d6388d0f.chunk.js",
+    "static/css/main.82a8d1c7.chunk.css",
+    "static/js/main.e515d00a.chunk.js"
+  ]
+}
